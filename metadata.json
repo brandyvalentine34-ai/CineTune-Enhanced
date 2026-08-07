@@ -1,0 +1,6 @@
+{
+  "name": "CineTune",
+  "description": "Find your favourite movie soundtrack - identify songs, movie scenes, and timestamps.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
